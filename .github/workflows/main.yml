@@ -1,0 +1,2 @@
+- name: Notify Slack Action
+  uses: ravsamhq/notify-slack-action@v2
